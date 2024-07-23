@@ -1,0 +1,14 @@
+file_list,temporal_segment_start,temporal_segment_end,metadata,sequence_number,view,diff
+seq_3_seq_3_view_5.webm,1.001,5.23142,inserting horizontal long rods,seq_3,5,4.2304200000000005
+seq_3_seq_3_view_5.webm,6.013,8.52309,inserting horizontal long rods,seq_3,5,2.51009
+seq_3_seq_3_view_5.webm,8.805,11.56476,inserting elbows,seq_3,5,2.75976
+seq_3_seq_3_view_5.webm,12.17,15.58559,inserting elbows,seq_3,5,3.41559
+seq_3_seq_3_view_5.webm,16.377,20.29392,inserting elbows,seq_3,5,3.916920000000001
+seq_3_seq_3_view_5.webm,20.60642,24.87726,inserting elbows,seq_3,5,4.27084
+seq_3_seq_3_view_5.webm,25.329,33.29392,inserting horizontal short rods,seq_3,5,7.964919999999999
+seq_3_seq_3_view_5.webm,34.724,43.35642,inserting horizontal short rods,seq_3,5,8.632420000000003
+seq_3_seq_3_view_5.webm,43.776,47.18976,inserting vertical short rods,seq_3,5,3.4137599999999964
+seq_3_seq_3_view_5.webm,48.038,53.08559,inserting vertical short rods,seq_3,5,5.047590000000007
+seq_3_seq_3_view_5.webm,53.886,58.35642,inserting vertical short rods,seq_3,5,4.470419999999997
+seq_3_seq_3_view_5.webm,58.785,62.46059,inserting vertical short rods,seq_3,5,3.675590000000007
+seq_3_seq_3_view_5.webm,62.21,65.08484,flip,seq_3,5,2.874839999999999

@@ -1,0 +1,10 @@
+{
+    "classes": {
+        "inserting vertical short rods": 0,
+        "mistakes": 1,
+        "inserting elbows": 2,
+        "inserting horizontal short rods": 3,
+        "inserting horizontal long rods": 4,
+        "flip": 5
+    }
+}

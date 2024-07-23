@@ -1,0 +1,126 @@
+file_list,temporal_segment_start,temporal_segment_end,action_label,sequence_number,view,diff,fps,start frame,end frame,frame_diff
+seq_4_seq_4_view_2.webm,1.023,3.10642,inserting vertical short rods,seq_4,2,2.0834200000000003,24.0,24,74,50
+seq_4_seq_4_view_2.webm,3.649,5.93976,inserting vertical short rods,seq_4,2,2.2907599999999997,24.0,87,142,55
+seq_4_seq_4_view_2.webm,6.689,9.04392,inserting vertical short rods,seq_4,2,2.35492,24.0,160,217,57
+seq_4_seq_4_view_2.webm,9.607,12.85642,inserting vertical short rods,seq_4,2,3.2494200000000006,24.0,230,308,78
+seq_5_seq_5_view_2.webm,1.023,6.77309,mistakes,seq_5,2,5.75009,24.0,24,162,138
+seq_6_seq_6_view_5.webm,0.972,8.68976,mistakes,seq_6,5,7.71776,24.0,23,208,185
+seq_6_seq_6_view_5.webm,8.8,10.41892,inserting elbows,seq_6,5,1.6189199999999992,24.0,211,250,39
+seq_6_seq_6_view_5.webm,10.69,14.85642,mistakes,seq_6,5,4.1664200000000005,24.0,256,356,100
+seq_6_seq_6_view_5.webm,15.574,20.54392,mistakes,seq_6,5,4.96992,24.0,373,493,120
+seq_6_seq_6_view_5.webm,21.128,24.10642,inserting elbows,seq_6,5,2.97842,24.0,507,578,71
+seq_6_seq_6_view_5.webm,25.857,30.85642,inserting horizontal short rods,seq_6,5,4.999420000000001,24.0,620,740,120
+seq_6_seq_6_view_5.webm,30.961,35.56476,inserting vertical short rods,seq_6,5,4.603760000000001,24.0,743,853,110
+seq_6_seq_6_view_5.webm,35.94,39.27309,inserting vertical short rods,seq_6,5,3.3330900000000057,24.0,862,942,80
+seq_6_seq_6_view_5.webm,39.975,41.93976,inserting vertical short rods,seq_6,5,1.9647599999999983,24.0,959,1006,47
+seq_7_seq_7_view_5.webm,8.19,12.23142,inserting horizontal long rods,seq_7,5,4.0414200000000005,24.0,196,293,97
+seq_7_seq_7_view_5.webm,12.801,18.18976,inserting horizontal long rods,seq_7,5,5.3887599999999996,24.0,307,436,129
+seq_7_seq_7_view_5.webm,22.374,27.94427,inserting elbows,seq_7,5,5.570270000000001,24.0,536,670,134
+seq_7_seq_7_view_5.webm,28.435,34.81927,inserting elbows,seq_7,5,6.384270000000004,24.0,682,835,153
+seq_7_seq_7_view_5.webm,35.422,39.06927,inserting elbows,seq_7,5,3.647270000000006,24.0,850,937,87
+seq_7_seq_7_view_5.webm,40.089,43.19427,inserting elbows,seq_7,5,3.1052700000000044,24.0,962,1036,74
+seq_7_seq_7_view_5.webm,44.69427,48.75677,inserting horizontal short rods,seq_7,5,4.0625,24.0,1072,1170,98
+seq_7_seq_7_view_5.webm,50.694,58.88177,inserting horizontal short rods,seq_7,5,8.18777,24.0,1216,1413,197
+seq_7_seq_7_view_5.webm,59.153,60.31927,inserting vertical short rods,seq_7,5,1.1662700000000044,24.0,1419,1447,28
+seq_7_seq_7_view_5.webm,60.66,61.81927,inserting vertical short rods,seq_7,5,1.1592700000000065,24.0,1455,1483,28
+seq_7_seq_7_view_5.webm,62.069,63.81927,inserting vertical short rods,seq_7,5,1.7502700000000004,24.0,1489,1531,42
+seq_7_seq_7_view_5.webm,64.31927,65.81927,inserting vertical short rods,seq_7,5,1.5,24.0,1543,1579,36
+seq_8_seq_8_view_5.webm,0.577,3.02309,inserting elbows,seq_8,5,2.44609,24.0,13,72,59
+seq_8_seq_8_view_5.webm,4.06,7.10642,mistakes,seq_8,5,3.0464200000000003,24.0,97,170,73
+seq_8_seq_8_view_5.webm,8.012,10.06476,inserting elbows,seq_8,5,2.0527599999999993,24.0,192,241,49
+seq_9_seq_9_view_5.webm,0.866,2.87726,inserting elbows,seq_9,5,2.01126,24.0,20,69,49
+seq_9_seq_9_view_5.webm,3.84,8.89809,mistakes,seq_9,5,5.05809,24.0,92,213,121
+seq_9_seq_9_view_5.webm,9.549,11.83559,mistakes,seq_9,5,2.2865900000000003,24.0,229,284,55
+seq_9_seq_9_view_5.webm,11.836,15.81476,inserting horizontal short rods,seq_9,5,3.9787599999999994,24.0,284,379,95
+seq_9_seq_9_view_5.webm,15.815,22.68976,inserting elbows,seq_9,5,6.87476,24.0,379,544,165
+seq_9_seq_9_view_5.webm,23.68976,25.18976,inserting vertical short rods,seq_9,5,1.5,24.0,568,604,36
+seq_9_seq_9_view_5.webm,25.35642,26.73142,inserting vertical short rods,seq_9,5,1.375,24.0,608,641,33
+seq_10_seq_10_view_5.webm,1.381,5.02309,inserting horizontal long rods,seq_10,5,3.6420899999999996,24.0,33,120,87
+seq_10_seq_10_view_5.webm,6.1,10.54392,inserting horizontal long rods,seq_10,5,4.44392,24.0,146,253,107
+seq_10_seq_10_view_5.webm,10.773,12.83559,inserting elbows,seq_10,5,2.06259,24.0,258,308,50
+seq_10_seq_10_view_5.webm,12.961,14.89809,inserting elbows,seq_10,5,1.9370899999999995,24.0,311,357,46
+seq_10_seq_10_view_5.webm,15.231,18.29392,inserting horizontal short rods,seq_10,5,3.06292,24.0,365,439,74
+seq_10_seq_10_view_5.webm,18.294,28.56927,inserting elbows,seq_10,5,10.275269999999999,24.0,439,685,246
+seq_10_seq_10_view_5.webm,28.882,31.94427,inserting elbows,seq_10,5,3.062269999999998,24.0,693,766,73
+seq_10_seq_10_view_5.webm,32.819,39.88177,inserting horizontal short rods,seq_10,5,7.06277,24.0,787,957,170
+seq_10_seq_10_view_5.webm,39.898,41.73142,inserting vertical short rods,seq_10,5,1.8334199999999967,24.0,957,1001,44
+seq_10_seq_10_view_5.webm,42.08559,43.89809,inserting vertical short rods,seq_10,5,1.8125,24.0,1010,1053,43
+seq_10_seq_10_view_5.webm,44.21059,47.39809,inserting vertical short rods,seq_10,5,3.1875,24.0,1061,1137,76
+seq_10_seq_10_view_5.webm,48.29392,49.66892,inserting vertical short rods,seq_10,5,1.375,24.0,1159,1192,33
+seq_11_Seq11_view5.webm,1.43976,4.48142,inserting horizontal long rods,seq_11,5,3.0416600000000003,24.0,34,107,73
+seq_11_Seq11_view5.webm,4.73142,6.08559,inserting elbows,seq_11,5,1.3541699999999999,24.0,113,146,33
+seq_11_Seq11_view5.webm,6.627,8.06476,inserting horizontal short rods,seq_11,5,1.43776,24.0,159,193,34
+seq_11_Seq11_view5.webm,8.981,14.52309,mistakes,seq_11,5,5.54209,24.0,215,348,133
+seq_12_Seq12_view5.webm,1.66892,6.54392,mistakes,seq_12,5,4.875,24.0,40,157,117
+seq_12_Seq12_view5.webm,7.065,12.43976,inserting horizontal long rods,seq_12,5,5.374759999999999,24.0,169,298,129
+seq_12_Seq12_view5.webm,12.523,28.00226,inserting elbows,seq_12,5,15.47926,24.0,300,672,372
+seq_12_Seq12_view5.webm,29.581,31.75226,inserting elbows,seq_12,5,2.17126,24.0,709,762,53
+seq_12_Seq12_view5.webm,32.919,34.18976,inserting elbows,seq_12,5,1.2707600000000028,24.0,790,820,30
+seq_12_Seq12_view5.webm,34.705,40.73142,inserting horizontal short rods,seq_12,5,6.026420000000002,24.0,832,977,145
+seq_12_Seq12_view5.webm,41.64809,43.02309,inserting vertical short rods,seq_12,5,1.375,24.0,999,1032,33
+seq_12_Seq12_view5.webm,43.822,45.23142,inserting vertical short rods,seq_12,5,1.4094199999999972,24.0,1051,1085,34
+seq_12_Seq12_view5.webm,45.872,46.75226,inserting vertical short rods,seq_12,5,0.8802599999999998,24.0,1100,1122,22
+seq_12_Seq12_view5.webm,47.443,49.73142,inserting vertical short rods,seq_12,5,2.288420000000002,24.0,1138,1193,55
+seq_13_Seq13_view5.webm,0.418,7.25903,mistakes,seq_13,5,6.84103,24.0,10,174,164
+seq_13_Seq13_view5.webm,7.547,11.59237,inserting horizontal long rods,seq_13,5,4.045370000000001,24.0,181,278,97
+seq_13_Seq13_view5.webm,12.795,17.25903,inserting horizontal long rods,seq_13,5,4.464029999999999,24.0,307,414,107
+seq_13_Seq13_view5.webm,17.593,20.9257,inserting elbows,seq_13,5,3.332699999999999,24.0,422,502,80
+seq_13_Seq13_view5.webm,21.176,40.59237,mistakes,seq_13,5,19.416370000000004,24.0,508,974,466
+seq_13_Seq13_view5.webm,40.592,48.9257,inserting horizontal short rods,seq_13,5,8.3337,24.0,974,1174,200
+seq_13_Seq13_view5.webm,57.065,60.9257,inserting elbows,seq_13,5,3.8607000000000014,24.0,1369,1462,93
+seq_13_Seq13_view5.webm,61.21,72.25903,mistakes,seq_13,5,11.049029999999995,24.0,1469,1734,265
+seq_13_Seq13_view5.webm,73.59237,89.75903,inserting horizontal short rods,seq_13,5,16.166659999999993,24.0,1766,2154,388
+seq_13_Seq13_view5.webm,93.131,95.50903,inserting vertical short rods,seq_13,5,2.3780299999999954,24.0,2235,2292,57
+seq_13_Seq13_view5.webm,96.425,104.6757,inserting vertical short rods,seq_13,5,8.250700000000009,24.0,2314,2512,198
+seq_13_Seq13_view5.webm,105.928,110.25903,inserting vertical short rods,seq_13,5,4.331029999999998,24.0,2542,2646,104
+seq_13_Seq13_view5.webm,111.009,114.87726,inserting vertical short rods,seq_13,5,3.8682600000000065,24.0,2664,2757,93
+seq_14_seq_14_view_5.webm,2.502,6.31476,inserting horizontal long rods,seq_14,5,3.81276,24.0,60,151,91
+seq_14_seq_14_view_5.webm,6.73142,14.71059,mistakes,seq_14,5,7.97917,24.0,161,353,192
+seq_14_seq_14_view_5.webm,14.91892,20.50226,inserting horizontal long rods,seq_14,5,5.58334,24.0,358,492,134
+seq_14_seq_14_view_5.webm,22.391,33.04392,mistakes,seq_14,5,10.652920000000002,24.0,537,793,256
+seq_14_seq_14_view_5.webm,33.61,40.04392,mistakes,seq_14,5,6.4339200000000005,24.0,806,961,155
+seq_14_seq_14_view_5.webm,47.73142,57.00226,inserting horizontal short rods,seq_14,5,9.27084,24.0,1145,1368,223
+seq_14_seq_14_view_5.webm,40.71059,46.64809,mistakes,seq_14,5,5.9375,24.0,977,1119,142
+seq_14_seq_14_view_5.webm,75.065,78.87726,inserting elbows,seq_14,5,3.812260000000009,24.0,1801,1893,92
+seq_14_seq_14_view_5.webm,79.29392,83.79392,mistakes,seq_14,5,4.5,24.0,1903,2011,108
+seq_14_seq_14_view_5.webm,84.398,88.04392,inserting horizontal short rods,seq_14,5,3.645920000000004,24.0,2025,2113,88
+seq_14_seq_14_view_5.webm,88.044,93.56476,inserting elbows,seq_14,5,5.52076000000001,24.0,2113,2245,132
+seq_14_seq_14_view_5.webm,93.565,97.52309,inserting vertical short rods,seq_14,5,3.9580899999999986,24.0,2245,2340,95
+seq_14_seq_14_view_5.webm,97.627,99.08559,mistakes,seq_14,5,1.458590000000001,24.0,2343,2378,35
+seq_14_seq_14_view_5.webm,99.39809,101.16892,inserting vertical short rods,seq_14,5,1.7708300000000037,24.0,2385,2428,43
+seq_14_seq_14_view_5.webm,101.729,103.43976,inserting vertical short rods,seq_14,5,1.7107600000000076,24.0,2441,2482,41
+seq_14_seq_14_view_5.webm,104.066,105.10642,inserting vertical short rods,seq_14,5,1.0404199999999975,24.0,2497,2522,25
+seq_1_seq_1_view_5.webm,1.248,3.85642,inserting horizontal long rods,seq_1,5,2.6084199999999997,24.0,29,92,63
+seq_1_seq_1_view_5.webm,4.35642,6.96059,inserting horizontal long rods,seq_1,5,2.60417,24.0,104,167,63
+seq_1_seq_1_view_5.webm,7.651,11.96059,inserting elbows,seq_1,5,4.30959,24.0,183,287,104
+seq_1_seq_1_view_5.webm,12.482,14.58559,inserting elbows,seq_1,5,2.1035900000000005,24.0,299,350,51
+seq_1_seq_1_view_5.webm,16.231,22.12726,inserting horizontal short rods,seq_1,5,5.896259999999998,24.0,389,531,142
+seq_1_seq_1_view_5.webm,23.398,28.25226,inserting elbows,seq_1,5,4.85426,24.0,561,678,117
+seq_1_seq_1_view_5.webm,29.648,31.73142,inserting elbows,seq_1,5,2.0834200000000003,24.0,711,761,50
+seq_1_seq_1_view_5.webm,33.356,53.68976,inserting horizontal short rods,seq_1,5,20.333759999999998,24.0,800,1288,488
+seq_2_seq_2_view_5.webm,1.37,5.85642,inserting elbows,seq_2,5,4.48642,24.0,32,140,108
+seq_2_seq_2_view_5.webm,6.943,9.64809,inserting vertical short rods,seq_2,5,2.70509,24.0,166,231,65
+seq_2_seq_2_view_5.webm,11.064,13.41892,inserting vertical short rods,seq_2,5,2.35492,24.0,265,322,57
+seq_2_seq_2_view_5.webm,13.544,15.29392,inserting vertical short rods,seq_2,5,1.7499199999999995,24.0,325,367,42
+seq_2_seq_2_view_5.webm,15.857,17.93976,inserting vertical short rods,seq_2,5,2.0827600000000004,24.0,380,430,50
+seq_3_seq_3_view_5.webm,1.001,5.23142,inserting horizontal long rods,seq_3,5,4.2304200000000005,24.0,24,125,101
+seq_3_seq_3_view_5.webm,6.013,8.52309,inserting horizontal long rods,seq_3,5,2.51009,24.0,144,204,60
+seq_3_seq_3_view_5.webm,8.805,11.56476,inserting elbows,seq_3,5,2.75976,24.0,211,277,66
+seq_3_seq_3_view_5.webm,12.17,15.58559,inserting elbows,seq_3,5,3.41559,24.0,292,374,82
+seq_3_seq_3_view_5.webm,16.377,20.29392,inserting elbows,seq_3,5,3.916920000000001,24.0,393,487,94
+seq_3_seq_3_view_5.webm,20.60642,24.87726,inserting elbows,seq_3,5,4.27084,24.0,494,597,103
+seq_3_seq_3_view_5.webm,25.329,33.29392,inserting horizontal short rods,seq_3,5,7.964919999999999,24.0,607,799,192
+seq_3_seq_3_view_5.webm,34.724,43.35642,inserting horizontal short rods,seq_3,5,8.632420000000003,24.0,833,1040,207
+seq_3_seq_3_view_5.webm,43.776,47.18976,inserting vertical short rods,seq_3,5,3.4137599999999964,24.0,1050,1132,82
+seq_3_seq_3_view_5.webm,48.038,53.08559,inserting vertical short rods,seq_3,5,5.047590000000007,24.0,1152,1274,122
+seq_3_seq_3_view_5.webm,53.886,58.35642,inserting vertical short rods,seq_3,5,4.470419999999997,24.0,1293,1400,107
+seq_3_seq_3_view_5.webm,58.785,62.46059,inserting vertical short rods,seq_3,5,3.675590000000007,24.0,1410,1499,89
+seq_2_seq_2_view_5.webm,18.19,19.89809,flip,seq_2,5,1.7080899999999986,24.0,436,477,41
+seq_3_seq_3_view_5.webm,62.21,65.08484,flip,seq_3,5,2.874839999999999,24.0,1493,1562,69
+seq_4_seq_4_view_2.webm,13.33559,15.46059,flip,seq_4,2,2.125,24.0,320,371,51
+seq_6_seq_6_view_5.webm,42.106,44.68976,flip,seq_6,5,2.583759999999998,24.0,1010,1072,62
+seq_9_seq_9_view_5.webm,27.39,30.29392,flip,seq_9,5,2.9039199999999994,24.0,657,727,70
+seq_10_seq_10_view_5.webm,49.798,52.68976,flip,seq_10,5,2.891759999999998,24.0,1195,1264,69
+seq_12_Seq12_view5.webm,49.877,52.85642,flip,seq_12,5,2.9794199999999975,24.0,1197,1268,71
+seq_13_Seq13_view5.webm,114.877,117.73142,flip,seq_13,5,2.8544200000000046,24.0,2757,2825,68
+seq_14_seq_14_view_5.webm,104.711,107.46059,flip,seq_14,5,2.7495899999999978,24.0,2513,2579,66
