@@ -23,12 +23,14 @@ Below are the demo videos showcasing both models in action:
 <a href="https://drive.google.com/file/d/1mTqgl9HL5pj_nOVnhX0S5uHOhNSsjuoZ/preview">
     <img src="https://github.com/user-attachments/assets/ce8dcd6d-3e6b-47d7-ae5b-57c46954d0a7" alt="Custom Lightweight Model Demo" width="400" height="300">
 </a>
+
 * Custom Lightweight Model: The yellow block represents the Efficient Channel Attention (ECA), the pink block denotes the ReductionCNN block, and the purple block illustrates the ViewAware Transformer.*
 
 ### ResNet + LSTM Model Demo with Mistakes  
 <a href="https://drive.google.com/file/d/128upw8J09Fk4JG2Br4a_w1oaDDnVG-gp/preview">
     <img src="https://github.com/user-attachments/assets/93316879-4d9f-42a6-82e1-70d749f12a62" alt="ResNet + LSTM Model Demo" width="400" height="300">
 </a>
+
 * ResNet+LSTM Based Big Model: The gray block represents the ResNet component, while the blue blocks denote the LSTM units.*
 
 </div>
