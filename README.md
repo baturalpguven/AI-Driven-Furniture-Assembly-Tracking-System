@@ -1,5 +1,7 @@
 # My Amazing Assembly Furniture (MAAF)
 
+Term project for 3D data collection using Intel Realsense stereo cameras and ROS system to understand furniture assembly by analyzing human actions and mistake detection.
+
 ## Project Overview
 MAAF is designed to detect furniture assembly actions and identify any mistakes in the process. This project offers two distinct solutions:
 
@@ -14,8 +16,14 @@ MAAF is designed to detect furniture assembly actions and identify any mistakes 
 
 ## Demo Videos
 Below are the demo videos showcasing both models in action:
-- [Custom Lightweight Model Demo](https://github.com/user-attachments/assets/18e07e47-005d-46f5-afdf-0e726cbf265b): This video demonstrates the performance of the lightweight model during assembly.
-- [ResNet + LSTM Model Demo with Mistakes](https://github.com/user-attachments/assets/549b2f05-0e45-4ae2-a947-fdb1320d820c): This video shows the big model in action, identifying mistakes during the assembly process.
+
+### Custom Lightweight Model Demo with Mistakes
+[![Custom Lightweight Model Demo](https://github.com/user-attachments/assets/ce8dcd6d-3e6b-47d7-ae5b-57c46954d0a7)](https://drive.google.com/file/d/1mTqgl9HL5pj_nOVnhX0S5uHOhNSsjuoZ/preview)  
+*Click the image above to view the custom lightweight model demo.*
+
+### ResNet + LSTM Model Demo with Mistakes
+[![ResNet + LSTM Model Demo](https://github.com/user-attachments/assets/93316879-4d9f-42a6-82e1-70d749f12a62)](https://drive.google.com/file/d/128upw8J09Fk4JG2Br4a_w1oaDDnVG-gp/preview)  
+*Click the image above to view the ResNet + LSTM model demo.*
 
 ## Resources
 - **Model Directories**: Each model has its own directory containing all necessary files and documentation.
@@ -26,8 +34,6 @@ To get started with MAAF, navigate to the model directories for specific install
 
 - [ResNet + LSTM Model](/big_model)
 - [Custom Lightweight Model](/light_weight_model)
-
-You can also check out the [Demo Results](/demo_results) to see both models in action. For a detailed summary of the project, refer to the [Final Presentation](demo_results/Final_presantation_MAAF.pdf).
 
 ## Acknowledgements
 A huge thank you to my amazing team members for their invaluable contributions to this project. Their hard work and dedication made MAAF possible!
