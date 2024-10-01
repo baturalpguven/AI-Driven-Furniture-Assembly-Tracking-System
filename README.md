@@ -1,4 +1,4 @@
-# AI-Driven Furniture Assembly Tracking System (MAAF)
+# AI-Driven Furniture Assembly Tracking System
 
 Term project for 3D data collection using Intel Realsense stereo cameras and ROS system to understand furniture assembly by analyzing human actions and mistake detection.
 
@@ -40,10 +40,10 @@ Below are the demo videos showcasing both models in action:
 - **Visualizations and Analysis**: Extensive ablation analyses and demo results are available in their respective folders.
 
 ## Getting Started
-To get started with MAAF, navigate to the model directories for specific installation instructions and usage examples:
+To get started with this project, navigate to the model directories for specific installation instructions and usage examples:
 
 - [ResNet + LSTM Model](/big_model)
 - [Custom Lightweight Model](/light_weight_model)
 
 ## Acknowledgements
-A huge thank you to my amazing team members for their invaluable contributions to this project. Their hard work and dedication made MAAF possible!
+A huge thank you to my amazing team members for their invaluable contributions to this project. Their hard work and dedication made it possible!
