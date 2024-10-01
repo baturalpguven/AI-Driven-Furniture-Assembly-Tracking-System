@@ -1,4 +1,4 @@
-# My Amazing Assembly Furniture (MAAF)
+# AI-Driven Furniture Assembly Tracking System (MAAF)
 
 Term project for 3D data collection using Intel Realsense stereo cameras and ROS system to understand furniture assembly by analyzing human actions and mistake detection.
 
